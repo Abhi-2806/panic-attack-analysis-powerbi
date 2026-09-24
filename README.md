@@ -76,7 +76,8 @@ Analysing early symptoms, Triggering causes and persisting health issues is cruc
 ---
 <h2><a class="anchor" id="research-questions--key-findings"></a>Research Questions & Key Findings</h2>
 
-1. **Number of Patients having Dizziness as a symptom **: 51% Patients 
+
+1. **Number of Patients having Dizziness as a symptom**: 51% Patients 
 2. **Average Panic Attack duration**: Mostly it remains for 24 minutes
 3. **Impact of Caffeine intake**: Almost linear increase in number of panic attack with increase in caffeine dose.
 4. **Exercise Frequency**: Patients with 0 ecercise frequency showed highest Panic score
@@ -108,4 +109,4 @@ Data Analyst
     Contact No: +91 6307017308
     
 🔗 [LinkedIn](https://www.linkedin.com/in/abhishekpathak2806/)  
-"# panic-attack-analysis-powerbi" 
+
